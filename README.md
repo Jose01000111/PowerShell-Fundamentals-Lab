@@ -59,9 +59,5 @@ This repository documents my hands-on journey learning PowerShell from the groun
 3. 🧱 Run the scripts phase by phase or jump into the final project  
 4. ✏️ Customize and expand any script to make it your own  
 
-> ⚠️ All scripts in this project are safe for educational and beginner use.
-
 ---
-
-## 🗂️ Folder Structure
 
