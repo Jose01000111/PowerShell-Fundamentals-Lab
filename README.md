@@ -8,11 +8,30 @@ This repository documents my hands-on journey learning PowerShell from the groun
 **Goal:** Learn the PowerShell environment and explore system information without making any system changes.
 
 ### ✅ Steps:
-- 🖥️ Open PowerShell as Administrator  
-- 🔢 Check the installed PowerShell version using `$PSVersionTable`  
-- 📁 Navigate the file system with `Get-ChildItem` and `Set-Location`  
-- 📚 Use the built-in help system with `Get-Help`  
-- ⚙️ View system information with `Get-ComputerInfo`, `Get-Process`, and `Get-Service`  
+- 🖥️ Open PowerShell as Administrator
+
+![1DBqmlq](https://github.com/user-attachments/assets/dd02db60-8315-4899-a6ec-05ec1e2c7cdd)
+
+- 🔢 Check the installed PowerShell version using `$PSVersionTable`
+
+![aIvPUP2](https://github.com/user-attachments/assets/29d24055-6755-479f-af41-fdb0738978eb)
+
+- 📁 Navigate the file system with `Get-ChildItem` and `Set-Location`
+
+![FK5YtIQ](https://github.com/user-attachments/assets/994db508-07df-41a8-8bd0-1e7b89c10372)
+
+- 📚 Use the built-in help system with `Get-Help`
+
+![NkGBEcb](https://github.com/user-attachments/assets/92b777d3-e0ed-45d2-9797-1976e2f33774)
+
+- ⚙️ View system information with `Get-ComputerInfo`, `Get-Process`, and `Get-Service`
+
+![0KD0o9D](https://github.com/user-attachments/assets/f54fd5d4-5a91-4b5c-91c7-f783b2c626f5)
+
+![NkGBEcb](https://github.com/user-attachments/assets/a583ea82-26ef-482e-a5f0-fac489bbf025)
+
+![t9Ro29C](https://github.com/user-attachments/assets/db3fe6ee-48a4-45ac-b884-9dde26f02ee2)
+
 - 📝 Export output to a file using `Out-File`  
 
 ---
@@ -25,20 +44,6 @@ This repository documents my hands-on journey learning PowerShell from the groun
 - 🧾 Create and run `.ps1` script files using `Write-Host`  
 - 🧠 Customize the PowerShell prompt using a custom `function`  
 - 🗓️ Schedule a script to run at login using Scheduled Task cmdlets  
-
----
-
-## 🧠 Phase 3: Capstone – System Audit Tool  
-**Goal:** Build a tool that collects system data and exports it to text and HTML reports.
-
-### 📋 This script will:
-- 📊 Collect the top CPU-consuming processes  
-- 💾 Check disk usage  
-- 🛑 List stopped services  
-- 🌐 Generate an HTML report of all services  
-- 📂 Save everything into a timestamped folder on the Desktop  
-
-📁 Script location: `Phase3_Capstone/System_Audit_Report.ps1`
 
 ---
 
