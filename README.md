@@ -32,18 +32,29 @@ This repository documents my hands-on journey learning PowerShell from the groun
 
 ![t9Ro29C](https://github.com/user-attachments/assets/db3fe6ee-48a4-45ac-b884-9dde26f02ee2)
 
-- 📝 Export output to a file using `Out-File`  
-
 ---
 
 ## ⚙️ Phase 2: Configuration & Automation  
 **Goal:** Make small, safe system customizations and automate simple tasks using scripts.
 
 ### ✅ Steps:
-- 🔁 Create and use aliases with `Set-Alias`  
-- 🧾 Create and run `.ps1` script files using `Write-Host`  
-- 🧠 Customize the PowerShell prompt using a custom `function`  
-- 🗓️ Schedule a script to run at login using Scheduled Task cmdlets  
+- 🔁 Create and use aliases with `Set-Alias`
+
+![ImaDrZo](https://github.com/user-attachments/assets/0514632f-d9e1-4795-83d7-2393cd1023a9)
+
+![zfOn4pN](https://github.com/user-attachments/assets/6be6ade7-60bc-4298-abe4-66b483470a0b)
+
+- 🧾 Create and run `.ps1` script files using `Write-Host`
+
+![nRIyurG](https://github.com/user-attachments/assets/392408ad-d853-4aa7-8fe2-16c96d94750e)
+
+- 🧠 Customize the PowerShell prompt using a custom `function`
+
+![YZQPmUB](https://github.com/user-attachments/assets/99be565d-ffcc-40b1-9f65-50ce82315273)
+
+- 🗓️ Schedule a script to run at login using Scheduled Task cmdlets
+
+  ![vq84AeL](https://github.com/user-attachments/assets/38c4087e-7996-4aba-9d8c-e8564d98abb4)
 
 ---
 
